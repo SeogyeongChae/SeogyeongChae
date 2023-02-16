@@ -10,15 +10,14 @@
 
 ---
 <div align=center><h1>🔗Project</h1></div>
-<h3>✔ [AWS 2-Tier with Console] ()</h3>
-<h3> [NCP 3-Tier with Console] ()</h3>
-<h3>✔ [GCP petclinic 3-Tier with Console] ()</h3>
-<h3> [GCP K8S] ()</h3> 
-<h3> [AWS 2-Tier with Terraform] ()</h3>
-<h3>✔ [GCP 2-Tier with Terraform] ()</h3>
-<h3>✔ [GCP Final Project |Using MSA, IaC, Docker, K8S, CI/CD] <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ()</h3>
+<h3>✔ [AWS 2-Tier with Console] (https://github.com/SeogyeongChae/AWS_2Tier_Console)</h3>
+<h3>✔ [NCP 3-Tier with Console] (https://github.com/SeogyeongChae/NCP-3-Tier-with-Console)</h3>
+<h3>✔ [GCP petclinic 3-Tier with Console] (https://github.com/SeogyeongChae/GCP-petclinic-3-Tier-with-Console)</h3>
+<h3>✔ [GCP K8S] (https://github.com/SeogyeongChae/GCP-K8S)</h3> 
+<h3>✔ [AWS 2-Tier with Terraform] (https://github.com/SeogyeongChae/AWS-2-Tier-with-Terraform)</h3>
+<h3>✔ [GCP 2-Tier with Terraform] (https://github.com/SeogyeongChae/GCP-2-Tier-with-Terraform)</h3>
+<h3>✔ [GCP Final Project |Using MSA, IaC, Docker, K8S, CI/CD] <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (https://github.com/SeogyeongChae/GCP-Final-Project-Using-MSA-IaC-Docker-K8S-CI-CD)</h3>
 <br/> <br/> <br/>
-<!--수정필요-->
 ---
 
 <div align=center><h1>📚 STACKS</h1></div>
