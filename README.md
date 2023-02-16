@@ -18,8 +18,8 @@
 <h3>✔ [GCP 2-Tier with Terraform] (https://github.com/SeogyeongChae/GCP-2-Tier-with-Terraform)</h3>
 <h3>✔ [GCP Final Project |Using MSA, IaC, Docker, K8S, CI/CD] <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (https://github.com/SeogyeongChae/GCP-Final-Project-Using-MSA-IaC-Docker-K8S-CI-CD)</h3>
 <br/> <br/> <br/>
----
 
+---
 <div align=center><h1>📚 STACKS</h1></div>
 
 ### CSP
