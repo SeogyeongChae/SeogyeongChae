@@ -1,6 +1,5 @@
 
-<a href="mailto:csg981008@gmail.com"><img src="https://img.shields.io/badge/csg981008@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/서경-채-7baaa6261/"><img src="https://img.shields.io/badge/Seogyeong Chae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:a01098826383@gmail.com"><img src="https://img.shields.io/badge/a01098826383@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=80B5E3&height=250&section=header&text=Seogyeong%20Chae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
